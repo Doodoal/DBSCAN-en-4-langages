@@ -1,16 +1,17 @@
 Projet fait à l'occasion de la session d'Hiver 2022 de CSI 2520 : Paradigmes de programmations
 
-# DBSCAN fait en 4 langages : Java, Go , Prolog, Scheme
+# DBSCAN fait en 4 langages 
+*Java, Go , Prolog, Scheme*
 
 Ce projet a été documenté en français. 
 Cependant, le nom des dossiers et des fonctions de ce programme sont en anglais pour cause de préférences personnelles.
 
 Le programme consiste à grouper les positions GPS trouvées dans les données recueillies pour plusieurs voyages en taxi.
 Ces dites données ont été transcrites dans les fichiers:
-- yellow_tripdata_2009-01-15_1hour_clean.csv   [Partie Java]
-- yellow_tripdata_2009-01-15_9h_21h_clean.csv  [Partie Golang]
-- partition65.csv , partition74.csv, partition75.csv, partition76.csv, partition84.csv, partition85.csv, partition86.csv  [Partie Prolog]
-- partition65.csm , partition74.csm, partition75.csm, partition76.csm, partition84.csm, partition85.csm, partition86.csm  [Partie Scheme]
+- yellow_tripdata_2009-01-15_1hour_clean.csv   **[Partie Java]**
+- yellow_tripdata_2009-01-15_9h_21h_clean.csv  **[Partie Golang]**
+- partition65.csv , partition74.csv, partition75.csv, partition76.csv, partition84.csv, partition85.csv, partition86.csv  **[Partie Prolog]**
+- partition65.csm , partition74.csm, partition75.csm, partition76.csm, partition84.csm, partition85.csm, partition86.csm  **[Partie Scheme]**
 
 
 
