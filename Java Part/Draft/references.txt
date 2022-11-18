@@ -1,0 +1,14 @@
+Aucun code n'a été copié/modifié des pages listées ci-dessous
+
+Cependant, ces pages ont beaucoup aidé à savoir comment s'y prendre pour
+implémenter telle ou telle fonction.
+
+Lecture de fichier csv:
+https://www.javatpoint.com/how-to-read-csv-file-in-java
+
+Edition de fichier csv:
+https://www.delftstack.com/fr/howto/java/java-write-to-csv/#:~:text=avec%20ce%20format.-,Utilisation%20de%20PrintWriter%20pour%20lire%20et%20%C3%A9crire%20dans%20un%20fichier,un%20nouveau%20fichier%20nomm%C3%A9%20test.
+
+DBscan
+https://www.youtube.com/watch?v=RDZUdRSDOok
+https://www.dataonfocus.com/dbscan-java-code/#:~:text=One%20of%20the%20most%20important,zones%20are%20marked%20as%20outliers.
