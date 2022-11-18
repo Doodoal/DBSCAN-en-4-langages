@@ -1,4 +1,4 @@
-Projet fait à l'occasion de la session d'Hiver 2022 de CSI 2520 : Paradigmes de programmations
+Projet fait à l'occasion de la session d'Hiver 2022 du cours de *CSI 2520 : Paradigmes de programmations*, Université d'Ottawa
 
 # DBSCAN fait en 4 langages 
 *Java, Go , Prolog, Scheme*
