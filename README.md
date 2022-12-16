@@ -6,6 +6,8 @@ Projet fait à l'occasion de la session d'Hiver 2022 du cours de *CSI 2520 : Par
 Ce projet a été documenté en français. 
 Cependant, le nom des dossiers et des fonctions de ce programme sont en anglais à cause de préférences personnelles.
 
+J'ai particulièrement eu du fun en réalisant la partie Java (Orientée objet) du projet :D
+
 Le programme consiste à grouper les positions GPS trouvées dans les données recueillies pour plusieurs voyages en taxi.
 Ces dites données ont été transcrites dans les fichiers:
 - *yellow_tripdata_2009-01-15_1hour_clean.csv*   **[Partie Java]**
