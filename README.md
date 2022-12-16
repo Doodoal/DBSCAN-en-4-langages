@@ -6,7 +6,7 @@ Projet fait à l'occasion de la session d'Hiver 2022 du cours de *CSI 2520 : Par
 Ce projet a été documenté en français. 
 Cependant, le nom des dossiers et des fonctions de ce programme sont en anglais à cause de préférences personnelles.
 
-J'ai particulièrement eu du fun en réalisant la partie Java (Orientée objet) du projet :D
+J'ai particulièrement eu du fun en réalisant la [partie Java](https://github.com/Doodoal/DBSCAN-en-4-langages/tree/main/Java%20Part/Final%20version) (Orientée objet) du projet :D
 
 Le programme consiste à grouper les positions GPS trouvées dans les données recueillies pour plusieurs voyages en taxi.
 Ces dites données ont été transcrites dans les fichiers:
