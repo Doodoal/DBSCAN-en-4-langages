@@ -4,7 +4,7 @@ Projet fait à l'occasion de la session d'Hiver 2022 du cours de *CSI 2520 : Par
 *Java, Go , Prolog, Scheme*
 
 Ce projet a été documenté en français. 
-Cependant, le nom des dossiers et des fonctions de ce programme sont en anglais pour cause de préférences personnelles.
+Cependant, le nom des dossiers et des fonctions de ce programme sont en anglais à cause de préférences personnelles.
 
 Le programme consiste à grouper les positions GPS trouvées dans les données recueillies pour plusieurs voyages en taxi.
 Ces dites données ont été transcrites dans les fichiers:
