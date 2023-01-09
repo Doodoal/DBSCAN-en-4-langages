@@ -1,4 +1,4 @@
->*Vous pouvez trouver la version française de ce texte [ici](https://github.com/Doodoal/DBSCAN-en-4-langages/blob/main/README.md)*
+>## Vous pouvez trouver la version française de ce texte [ici](https://github.com/Doodoal/DBSCAN-en-4-langages/blob/main/README.md)
 <br>
 
 Project done during the Winter 2022 session of the french equivalent of *CSI 2120 : Programming paradigms*, University of Ottawa
