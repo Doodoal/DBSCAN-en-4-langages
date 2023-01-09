@@ -1,4 +1,4 @@
->*You can find the English version of this text [here](https://github.com/Doodoal/DBSCAN-en-4-langages/blob/main/README-en.md)*
+> ## You can find the English version of this text [here](https://github.com/Doodoal/DBSCAN-en-4-langages/blob/main/README-en.md)
 <br>
 Projet fait à l'occasion de la session d'Hiver 2022 du cours de *CSI 2520 : Paradigmes de programmations*, Université d'Ottawa
 
