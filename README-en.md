@@ -5,7 +5,7 @@ Project done during the Winter 2022 session of the french equivalent of *CSI 212
 
 
 
-# DBSCAN written in 4 langages 
+# DBSCAN written in 4 languages 
 *Java, Go , Prolog, Scheme*
 
 The code was commented in French. 
