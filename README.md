@@ -1,3 +1,5 @@
+>*You can find the English version of this text [here](https://github.com/Doodoal/DBSCAN-en-4-langages/blob/main/README-en.md)*
+<br>
 Projet fait à l'occasion de la session d'Hiver 2022 du cours de *CSI 2520 : Paradigmes de programmations*, Université d'Ottawa
 
 # DBSCAN fait en 4 langages 
@@ -18,7 +20,7 @@ Ces dites données ont été transcrites dans les fichiers:
 
 
 ### Partie Java (Programmation Orienté-Objet): 
-Trouver différents groupes (clusters) d'effectif minimal minPts et de points séparés au plus d'une distance eps 
+Trouver différents groupes (clusters) d'effectif minimal *minPts* et de points séparés au plus d'une distance *eps* 
 
 ### Partie Golang (Programmation concurrente): 
 Même chose que la partie Java, mais de manière simultanée sur 16 partitions constituant le plan entier.
